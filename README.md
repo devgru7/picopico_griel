@@ -7,7 +7,7 @@ picopico game engine version
 
 This is a game from retro msx game 'Griel's Quest for the Sangraal'
 
-I wrote my own lua code and resources with PicoPico Game Engine.
+I wrote my own lua code and resources with PicoPico Game Engine. (http://picopicoengine.com/)
 
 Just prototype so code is not polished. 
 
